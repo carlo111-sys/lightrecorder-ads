@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "id": "20260721-01",
+  "title": "这里填写广告标题",
+  "description": "这里填写广告介绍",
+  "image_url": "https://你的用户名.github.io/lightrecorder-ads/banner.png",
+  "target_url": "https://广告点击后打开的网址"
+}
